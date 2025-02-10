@@ -127,10 +127,10 @@ header ul li:hover::after{
 
 /*Footer*/
 footer{
-    background:gray;
-    padding: 20px 0;
+    background:green;
+    padding: 20px 50px;
     text-align: center; 
-    position: static;
+    position: relative;
     bottom: 0;
     width: 100%;
     margin: auto;
@@ -168,7 +168,7 @@ footer .footer-content h2{
 }
 
 footer h3 {
-    color: darkgreen;
+    color: #32CD32;
     font-size: 25px;
     margin-bottom: 20px;
     font-family: 'Roboto', sans-serif;
